@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "118815598920",
+    "firebase_url": "https://antakshari-application.firebaseio.com",
+    "project_id": "antakshari-application",
+    "storage_bucket": "antakshari-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118815598920:android:472beba6d53fe9d0e7ab7d",
+        "android_client_info": {
+          "package_name": "co.antakshari.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118815598920-7f4opank04vo095mph9qfp7358p709bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Sgu4IOqI8RK6KwB58m5nblhCNDnQAnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118815598920-7f4opank04vo095mph9qfp7358p709bn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "118815598920-oni9vdiv3at97r5u4aoleo6tiqrn4avk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.antakshari.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
